@@ -1,7 +1,7 @@
 Cara Install Arch Linux
 =============================
 
-.. figure:: images/archlinux.png
+.. figure:: Archlinux-icon-crystal-64.svg.png
       :width: 100px
       :align: right
 
