@@ -1,7 +1,7 @@
 Cara Install Arch Linux
 =============================
 
-Ini adalah repository untuk dokumentasi di readthedocs, silahkan akses https://carainstallarchlinux.readthedocs.io.
+Ini adalah github repository untuk dokumentasi tentang instalasi arch linux yang saya tulis di readthedocs, silahkan akses https://carainstallarchlinux.readthedocs.io.
 
 Dokumentasi saya tulis di `reStructuredText <http://www.sphinx-doc.org/rest.html>`_.
 
@@ -41,4 +41,4 @@ Lisensi:
 Kontribusi:
 --------
 
-Dokumentasi yang saya buat belum final, dan saya membutuhkan bantuan untuk dokumentasi pada saat selesai instalasi dan beberapa driver yang diperlukan agar sistem benar-benar bisa dipakai. Bagi yang ingin berkontribusi pada dokumentasi silahkan pull request.
+Dokumentasi yang saya buat belum sepenuhnya sempurna melainkan hanya konfigurasi dasar, dan saya membutuhkan bantuan untuk dokumentasi pada saat selesai instalasi mulai dari install driver, desktop environment, dan beberapa software penting  yang diperlukan agar sistem benar-benar bisa dipakai. Bagi yang ingin berkontribusi pada dokumentasi silahkan pull request.
